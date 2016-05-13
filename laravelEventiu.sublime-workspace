@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"sceneGroup"
+			],
+			[
+				"respo",
+				"responseJSON"
+			],
+			[
+				"egnyte",
+				"egnyteHostName"
+			],
+			[
+				"MedGui",
+				"MedGuideDataProcessor"
+			],
+			[
+				"Wri",
+				"WriteLine"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"temp",
+				"tempFolder"
+			],
+			[
+				"root",
+				"RootDirectory"
+			],
+			[
+				"Downloaded",
+				"DownloadedMedGuideDataZip"
+			],
+			[
+				"tool",
+				"toolPath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "view: toggle menu",
+		"selected_items":
+		[
+			[
+				"view: toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"hext",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package control ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package control list ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print(\"hello world\")",
+			"print \"hello world\"",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hdiaz/.ssh/id_rsa.pub",
+		"/C/Users/Hdiaz/Downloads/Kaiser-Escondito-Logs (1)/read me.txt",
+		"/C/GSL/NextGen/ApplicationServer/Logs/ApplicationServer.20160511.log",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160511.log",
+		"/C/GSL/DevSetup/install.bat",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160510.log",
+		"/C/GSL/NextGen/ApplicationServer/Logs/ApplicationServer.20160510.log",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160506.log",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160505.log",
+		"/C/GSL/NextGen/ApplicationServer/Logs/ApplicationServer.20160505.log",
+		"/C/GSL/NextGen/NextGen.sln",
+		"/C/GSL/NextGen/Utilities/CreateEventMessages.bat",
+		"/C/Users/Hdiaz/Documents/Printerwiki/GSL Seiko Printer Implementation.md",
+		"/C/Users/Hdiaz/Desktop/research.md",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TabBarApp/main.lua",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TabBarApp/view1.lua",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TestGame/menu.lua",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TestGame/main.lua",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TestGame/game.lua",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TestApplication/build.settings",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TestApplication/level1.lua",
+		"/C/Users/Hdiaz/Documents/Corona Projects/TestApplication/main.lua",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160504.log",
+		"/C/GSL/NextGen/ApplicationServer/Logs/ApplicationServer.20160504.log",
+		"/C/Users/Hdiaz/Desktop/TestSample.rcd",
+		"/C/Users/Hdiaz/Desktop/freshmanWebsite/animation.js",
+		"/C/Users/Hdiaz/Desktop/freshmanWebsite/home.html",
+		"/C/Users/Hdiaz/Downloads/TestSample.rcd",
+		"/C/Users/Hdiaz/Desktop/PrescriptionLocatorReport_2016_03_16_16_07_12 (1).txt",
+		"/C/Users/Hdiaz/Desktop/PrescriptionLocatorReport_2016_03_16_16_11_12.rcd",
+		"/C/Users/Hdiaz/Desktop/22chars.txt",
+		"/C/Users/Hdiaz/Desktop/PrescriptionLocatorReport_2016_03_16_16_07_12.txt",
+		"/C/Users/Hdiaz/Desktop/asdasda",
+		"/C/Users/Hdiaz/Documents/GSL/PrinterKey/16byte.pem",
+		"/C/Users/Hdiaz/Documents/GSL/PrinterKey/32byte.pem",
+		"/C/Users/Hdiaz/Downloads/WillCallClient.20160422.log",
+		"/C/Users/Hdiaz/Documents/GSL/PrinterKey/private.pem",
+		"/C/GSL/intellitrak/LocationServer/Logs/LocationServer.20160420.log",
+		"/C/GSL/intellitrak/LocationServer/Logs/LocationServer.20160408.log",
+		"/C/GSL/intellitrak/LocationServer/Logs/LocationServer.20160401.log",
+		"/C/GSL/intellitrak/ApplicationServer/Logs/ApplicationServer.20160405.log",
+		"/C/GSL/intellitrak/ApplicationServer/Logs/ApplicationServer.20160401.log",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160420.log",
+		"/C/GSL/NextGen/ApplicationServer/Logs/ApplicationServer.20160420.log",
+		"/C/GSL/testtools/FakeDataGenerator/bin/Debug/config.cfgex",
+		"/C/GSL/NextGen/WillCallClient/bin/Logs/WillCallClient.20160419.log",
+		"/C/GSL/testtools/FakeDataGenerator/SampleMrnConfigList.xml",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/ApplicationServer.20160407.log",
+		"/C/Users/Hdiaz/Downloads/Kaiser-Longview-Logs/GSLAPI.20160408.log",
+		"/C/Users/Hdiaz/Downloads/Kaiser-Longview-Logs/GSLAPI.20160407.log",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/LocationServer.20160407.log",
+		"/C/Users/Hdiaz/Downloads/Kaiser-Longview-Logs/ApplicationServer.20160408.log",
+		"/C/Users/Hdiaz/Downloads/PrescriptionLocatorReport_2016_03_16_14_23_23.rcd",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/LittleAxe/ERRORLOG",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/LittleAxe/ApplicationServer.20160406.log",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/LittleAxe/LocationServer.20160406.log",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/SQLDUMPER_ERRORLOG.log",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/ERRORLOG",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/SQLDump0001.mdmp",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/SQLDump0001.txt",
+		"/C/Users/Hdiaz/Downloads/IHSLogFiles/Shawnee/SQLDump0001.log",
+		"/C/GSL/Installers1105/InstallLog.txt",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/html/system/_pdf/pdf_teams.php",
+		"/C/Users/Hdiaz/AppData/Local/Temp/Temp1_MedGuideData (1).zip/RNDCMDG0.NEC",
+		"/C/GSL/NextGen/DrawerSimulatorLib/SimulatorState/drawer0",
+		"/C/Users/Hdiaz/Documents/GSL/firmware/PadreaderSvn146BSHA.bin",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/html/system/admin_settings.php",
+		"/C/GSL/DevSetup/1104 Backups/GSLSQL.RestoreDBs.sql",
+		"/C/GSL/tools/MedGuideDataProcessor/Get-MedGuideData.ps1",
+		"/C/GSL/intellitrak/README.md",
+		"/C/Users/Hdiaz/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/Hdiaz/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Z/Shared/IT/Developer Setups/GSLSQL.RestoreDBs.sql",
+		"/C/Users/Hdiaz/Downloads/stsw-link004.zip",
+		"/C/Users/Hdiaz/Pictures/relax1807_468x381.jpeg",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/JiraExtension/bitty.png",
+		"/C/Users/Hdiaz/Pictures/album.png",
+		"/C/Users/Hdiaz/Pictures/relax1807_468x381._to_468x312jpeg",
+		"/C/GSL/tools/FirmwareLoader/FirmwareLoader/bin/Debug/PadreaderSvn146B.tst",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/JiraExtension/manifest.json",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/JiraExtension/sample.js",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/JiraExtension/jiraActions.js",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/JiraExtension/popup.html",
+		"/C/Users/Hdiaz/Documents/GSL/firmware/PadreaderSvn146B.tst",
+		"/C/GSL/intellitrak/IntelliCabPrinterDriver/IntelliCabPrinterDriver.cs",
+		"/C/GSL/intellitrak/ApplicationServerLib/Persistence/ActiveItem.cs",
+		"/C/GSL/intellitrak/ApplicationServerLib/Persistence/ItemStateCounts.cs",
+		"/C/Users/Hdiaz/Desktop/ASDAFAGAGSD/ApplicationServer.20151218.log",
+		"/C/GSL/intellitrak/WillCallClient/bin/Logs/WillCallClient.20160304.log",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/html/system/edit_event.php",
+		"/C/GSL/intellitrak/Utilities/USBNativeMethods/UsbDeviceActions.cs",
+		"/C/GSL/intellitrak/Utilities/USBNativeMethods/Structures/WINUSB_SETUP_PACKET.cs",
+		"/C/GSL/NextGen/ApplicationServer/Logs/ApplicationServer.20160229.log",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/Eventiu/.htaccess",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/Eventiu/.env",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/html/system/edit_event_admin.php",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/Eventiu/public/js/views/modals.js",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/html/system/login.php",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/html/system/tourney_page_register.php",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/Eventiu/storage/logs/laravel.log",
+		"/C/GSL/tools/MedGuideDataProcessor/Convert-XmlZipToPdfZip.ps1",
+		"/C/GSL/tools/MedGuideDataProcessor/upload-test.ps1",
+		"/C/GSL/tools/MedGuideDataProcessor/MedGuideXmlConvertTools/Convert-XmlZipToPdfZip.ps1",
+		"/C/Users/Hdiaz/AppData/Roaming/FileZilla/trustedcerts.xml",
+		"/C/GSL/intellitrak/StateEngine/EngineBehaviors/FindUnusedEngineElements.ps1",
+		"/C/GSL/testtools/CreateRltCscCommandLine.ps1",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/1a1da905-42a0-4748-9c39-67eca45deccc/output.html",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/1a1da905-42a0-4748-9c39-67eca45deccc/1a1da905-42a0-4748-9c39-67eca45deccc.xml",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Hdiaz/Documents/workspace/wovenware/Eventiu/database/db_modifications.sql",
+		"/C/Users/Hdiaz/AppData/Local/Temp/Temp1_NDDF PLUS DB (1).zip/NDDF Plus DB/MedGuides/MDG 1.0/RNDCMDG0_NDC_MEDGUIDE_LINK",
+		"/C/Users/Hdiaz/AppData/Local/Temp/Temp2_MedGuideData.zip/RNDCMDG0.NEC",
+		"/C/GSL/tools/MedGuideDataProcessor/Convert-XmlZip.ps1",
+		"/C/GSL/scripts/testing.ps1",
+		"/C/GSL/scripts/Convert-XmlZip.ps1",
+		"/C/GSL/scripts/Convert-Xml-Zip.ps1",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/spl.xsl",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/spl.css",
+		"/C/GSL/intellitrak/MedGuideXmlToPdf/bin/Debug/output.pdf",
+		"/C/GSL/intellitrak/MedGuideXmlToPdf/bin/Debug/output.html",
+		"/C/GSL/intellitrak/MedGuideXmlToPdf/Program.cs",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/01b14603-8f29-4fa3-8d7e-9d523f802e0b/01b14603-8f29-4fa3-8d7e-9d523f802e0b.xml",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/spl-common.xsl",
+		"/C/Users/Hdiaz/Desktop/test.xps",
+		"/C/Users/Hdiaz/Desktop/WillCallClient.20160205.log",
+		"/C/Users/Hdiaz/Desktop/6fa203ab-2822-4394-8f17-83f6eeaec626.pdf",
+		"/C/GSL/intellitrak/WillCallClient/bin/Logs/WillCallClient.20160205.log",
+		"/C/Users/Hdiaz/Downloads/MEDGUIDES/xml-verbatim.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"<open files>",
+			"C:\\Users\\Hdiaz\\Documents\\workspace\\wovenware\\html",
+			"C:\\Users\\Hdiaz\\Downloads\\MEDGUIDES\\",
+			"C:\\Users\\Hdiaz\\Downloads\\MEDGUIDES",
+			"C:\\Users\\Hdiaz\\Downloads\\MEDGUIDESPegIntron",
+			"C:\\Users\\Hdiaz\\Downloads\\MEDGUIDES",
+			"C:\\Users\\Hdiaz\\Desktop\\SAPRIwebsite",
+			"C:\\Users\\Hdiaz\\Desktop\\SAPRIwebsite\\wp-content\\themes",
+			"C:\\Users\\Hdiaz\\Desktop\\SAPRIwebsite"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DataInst",
+			"Utilities.DataInstrumentationHandler",
+			"Res",
+			"Event",
+			"-",
+			"\n-",
+			"Utilities.DataInstrumentationHandler",
+			"</li>",
+			"</p></li>",
+			"<li>",
+			"<li><p>",
+			"</p></li>",
+			"<li><p>",
+			"</code>",
+			"<code>",
+			"DataInstrumentationHandler",
+			"DataInstrument",
+			"DataInstrumentationHandler",
+			"**",
+			"SystemUri",
+			"static",
+			"const",
+			"ChangedUri",
+			" ",
+			"Offline",
+			"recover",
+			"after",
+			"after ",
+			"was stale",
+			"Security.AuthCore.SqlLoginConnectionHelper",
+			"Security.AuthCore_SqlConnection",
+			"Security ",
+			"handle",
+			"with handle",
+			"FIXING StaleNESS",
+			"2430080",
+			"11:",
+			"/d{11}",
+			", ",
+			"([a-f0-9]{2})",
+			"\\n",
+			" ",
+			"$header",
+			"header",
+			"$header",
+			"pdf_teams",
+			"([A-F0-9]{2})",
+			"(..)",
+			"6F",
+			"firstDataBankFTP",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"RequestType",
+			"requestType",
+			"Utilities.USBNativeMethods.UsbDeviceActions.PadToClientRequestType",
+			"Utilities.USBNativeMethods.UsbDeviceActions.DataToClientRequestType",
+			"DataToPrinterRequestType",
+			"Utilities.USBNativeMethods.UsbDeviceActions.ClientToPadRequestType",
+			"Utilities.USBNativeMethods.UsbDeviceActions.DataToClientRequestType",
+			"DataToPrinterRequestType",
+			"conversation",
+			"create",
+			"team_name_b",
+			"team_name_a",
+			"this.DeviceLog.Clear();",
+			"P?=(layer)",
+			"(?:\\{\\{#is)P",
+			" ",
+			"}",
+			" ",
+			"limited_use",
+			"temp_pw",
+			"hour\"",
+			"YES",
+			"'YES'",
+			"yes",
+			"male",
+			"event_type",
+			",",
+			"\n",
+			"[a-z]}}",
+			"{{#",
+			"{{#[a-zA-Z]*}}",
+			"{{#.*}}",
+			"2012",
+			"<?php echo\"\" . $info [\"",
+			"\"] . \"\";   ?>",
+			"\"\"] . \"\";   ?>",
+			"<?php echo\"\" . $info [\"",
+			"numberDropDown",
+			"$schedule_enabled",
+			"EgnytePassword",
+			"/Shared/GWIS/MedGuideData",
+			"\"\n",
+			"/Shared/GWIS/MedGuideData",
+			"ftp://$egnyteHostName",
+			"UploadFileToEgnyte",
+			"upload",
+			"$xmltools",
+			"$tools",
+			"CreateDirectoryOnEgnyte",
+			"$gsl",
+			"UploadFileToEgnyte",
+			"egnyteHostName",
+			"Join-Path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\0",
+			"0x$1, ",
+			"",
+			"0x$1, ",
+			"/",
+			"",
+			"/",
+			"sportsalternativepr.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravelEventiu.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

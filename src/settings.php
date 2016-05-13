@@ -16,8 +16,8 @@ return [
 
         // Database settings
         'database' => [
-            'db_host' => 'localhost:3306',
-            'db_name' => 'taller_db',
+            'db_host' => 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/',
+            'db_name' => 'tallerslim',
             'db_usr' => 'taller',
             'db_pass' => 'rellat',
         ],

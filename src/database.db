@@ -1,12 +1,12 @@
 CREATE TABLE Customers (
 	id int AUTO_INCREMENT NOT NULL,
-	name VARCHAR2(50) NOT NULL,
+	name VARCHAR(50) NOT NULL,
 	PRIMARY KEY (id)
 );
 
 CREATE TABLE Gifts (
 	id INT AUTO_INCREMENT NOT NULL,
-	name VARCHAR2(50) NOT NULL,
+	name VARCHAR(50) NOT NULL,
 	price DECIMAL(8,2) NOT NULL,
 	PRIMARY KEY (id)
 );
@@ -16,9 +16,22 @@ CREATE TABLE Deliveries (
 	gift int NOT NULL,
 	sender int NOT NULL,
 	recipient int NOT NULL,
-	message varchar2(50),
+	message varchar(50),
 	PRIMARY KEY (id),
 	FOREIGN KEY (gift) REFERENCES Gifts(id),
 	FOREIGN KEY (sender) REFERENCES Customers(id),
 	FOREIGN KEY (recipient) REFERENCES Customers(id)
 );
+
+INSERT INTO Customers (id, name) VALUES (null, "Kyle Moses"),(null, "Quamar Crane"),(null, "Paki Frye"),(null, "Francis Brady"),(null, "Michael Hood"),(null, "Justin Hahn"),(null, "Aaron Murphy"),(null, "Tiger Duke"),(null, "Roth Espinoza"),(null, "Thane Saunders");
+INSERT INTO Customers (id, name) VALUES (null, "Kirk Chase"),(null, "Harlan Morris"),(null, "Norman Patton"),(null, "Hyatt Leonard"),(null, "Tiger Mccall"),(null, "Blaze Hampton"),(null, "Acton Lester"),(null, "August Byrd"),(null, "Samuel Ford"),(null, "Boris Watkins");
+INSERT INTO Customers (id, name) VALUES (null, "Rooney Buckner"),(null, "Rooney Dunn"),(null, "Patrick Franks"),(null, "Oscar Henson"),(null, "Avram Lowery"),(null, "Preston Hunt"),(null, "Lucian Lancaster"),(null, "Preston Harrison"),(null, "Jack Fitzpatrick"),(null, "Jack Hancock");
+INSERT INTO Customers (id, name) VALUES (null, "Akeem Hancock"),(null, "Alan Gaines"),(null, "Jelani Watson"),(null, "Curran Wright"),(null, "Orlando Neal"),(null, "Dean Cooke"),(null, "Griffith Fields"),(null, "Geoffrey Tyler"),(null, "Elmo Randolph"),(null, "Victor Manning");
+INSERT INTO Customers (id, name) VALUES (null, "Grady Glass"),(null, "Craig Abbott"),(null, "Mark Wilder"),(null, "Nolan Cox"),(null, "Conan Mullen"),(null, "Coby Fox"),(null, "Kibo Cochran"),(null, "Xanthus Harris"),(null, "Kato Turner"),(null, "Kuame David");
+INSERT INTO Customers (id, name) VALUES (null, "Levi Freeman"),(null, "Buckminster Robertson"),(null, "Dexter Dyer"),(null, "Hasad Cantrell"),(null, "Guy Carter"),(null, "Ethan Cannon"),(null, "Igor Sykes"),(null, "Basil Le"),(null, "Colin Brewer"),(null, "Jonas Cross");
+INSERT INTO Customers (id, name) VALUES (null, "Cody Mcfadden"),(null, "Edward Brennan"),(null, "Harlan Mcmahon"),(null, "Kirk Solomon"),(null, "Talon Odonnell"),(null, "Omar Joyce"),(null, "Kareem Whitney"),(null, "Melvin Sanders"),(null, "Samson Odonnell"),(null, "Vaughan Fisher");
+INSERT INTO Customers (id, name) VALUES (null, "Nathan Owens"),(null, "Walter Duran"),(null, "Thomas Houston"),(null, "Cyrus Nicholson"),(null, "Brian Higgins"),(null, "Kato Harding"),(null, "Burton Ingram"),(null, "Cairo Frank"),(null, "Chaim Church"),(null, "Denton Robinson");
+INSERT INTO Customers (id, name) VALUES (null, "Fitzgerald Castillo"),(null, "Jermaine Holcomb"),(null, "Rigel Crane"),(null, "Leo Hopper"),(null, "Griffin Cabrera"),(null, "Jermaine Burt"),(null, "Rooney Davis"),(null, "Brody Frank"),(null, "Damon Cook"),(null, "Dylan Harding");
+INSERT INTO Customers (id, name) VALUES (null, "Brenden Dickerson"),(null, "Basil Stevenson"),(null, "Wyatt Gonzalez"),(null, "Craig Curry"),(null, "Griffin Cleveland"),(null, "Octavius Price"),(null, "Harlan Summers"),(null, "Avram Jimenez"),(null, "Reece Galloway"),(null, "Jack Daugherty");
+
+INSERT INTO Gifts (id, name, price) VALUES (null, "Playstation 4", "400.00"), (null, "Xbox One", "350.00"), (null, "Wii U", "250.00"), (null, "Raspberry Pi 3", "50.00"), (null, "Table-top Arcade", "100.00"), (null, "Kindle Fire", "120.00"), (null, "Jumanji Board game", "20.00"), (null, "DC Deckbuilding game", "40.00"), (null, "Serbian Film", "15.00");
